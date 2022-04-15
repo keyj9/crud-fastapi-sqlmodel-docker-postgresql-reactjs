@@ -13,6 +13,5 @@ Run:
 [//]: # (<li> yarn add @nuxtjs/vuetify @nuxtjs/axios </li>)
 <li> yarn add axios </li>
 <li> yarn start </li>
-
 </ul><br />
 ## TODO 
