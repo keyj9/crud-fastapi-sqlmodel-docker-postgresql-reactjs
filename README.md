@@ -9,8 +9,6 @@ Run:
 <li> python3 create_database.py </li>
 <li> uvicorn main:app --reload </li>
 <li> npx create-react-app .</li>
-[//]: # (<li> yarn add nuxt</li>)
-[//]: # (<li> yarn add @nuxtjs/vuetify @nuxtjs/axios </li>)
 <li> yarn add axios </li>
 <li> yarn start </li>
 </ul><br />
